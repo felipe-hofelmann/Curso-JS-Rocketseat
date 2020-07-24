@@ -4,7 +4,7 @@
 ### Progresso
 
 - [x] Modulo 1
-- [ ] Modulo 2
+- [x] Módulo 2
 - [ ] Modulo 3
 - [ ] Modulo 4
 <h3>Autor</h3>
