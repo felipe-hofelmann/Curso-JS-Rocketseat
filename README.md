@@ -5,7 +5,7 @@
 
 - [x] Modulo 1
 - [x] Módulo 2
-- [ ] Modulo 3
+- [x] Módulo 3 (Não teve desafios mas  reproduzi os assuntos passados nas aulas do módulo)
 - [ ] Modulo 4
 <h3>Autor</h3>
 <h4>Felipe Höfelmann</h4>
