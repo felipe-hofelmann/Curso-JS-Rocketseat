@@ -6,7 +6,7 @@
 - [x] Modulo 1
 - [x] Módulo 2
 - [x] Módulo 3 (Não teve desafios mas  reproduzi os assuntos passados nas aulas do módulo)
-- [ x] Módulo 4
+- [x] Módulo 4
 <h3>Autor</h3>
 <h4>Felipe Höfelmann</h4>
 <h5>Email:<a href="felipehofelmann21@gmail.com">felipehofelmann21@gmail.com</a></h5>
